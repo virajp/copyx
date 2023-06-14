@@ -1,0 +1,17 @@
+name: xcopy
+description: CLI to copy all the files matching a pattern
+version: 1.0.0
+repository: https://github.com/virajp/xcopy
+
+environment:
+  sdk: ^3.0.5
+
+# Add regular dependencies here.
+dependencies:
+  args: 
+  path: 
+  ansicolor: 
+  console: 
+
+dev_dependencies:
+  lints:
